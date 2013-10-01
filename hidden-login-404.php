@@ -3,7 +3,7 @@
 Plugin Name: Hidden Login 404
 Description: Hides the login page
 Version: 1.0
-Author: Petrozavodsky
+Author: vovasik
 Author URI: http://alkoweb.ru/
 Plugin URI: http://alkoweb.ru/hidden-login
 */
