@@ -1,7 +1,7 @@
 === Hidden Login 404 ===
 Contributors: (vovasik)
 Donate link: http://alkoweb.ru/
-Tags: login form, brute force, spam
+Tags: login form, anti brute force, antispam
 Requires at least: Your server is running PHP version 5.2 but WordPress 3.0.1 
 Tested up to: 3.6
 Stable tag: 1.0
